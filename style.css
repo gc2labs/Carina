@@ -1,8 +1,8 @@
 body,h1 {font-family: "Raleway", sans-serif}
 body, html {height: 100%}
 .bgimg {
-  background-image: url('https://i.chzbgr.com/full/2789378304/h014D6420/what-did-u-do-i-am-waiting');
-  min-height: 50%;
+  background-image: url('what-did-u-do-i-am-waiting.jfif');
+  min-height: 100%;
   background-position: center;
   background-size: cover;
 }
